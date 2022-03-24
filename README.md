@@ -1,4 +1,4 @@
-Wunderdogs tech test APP (Front-end)
+Tech test APP (Front-end)
 
 Shows a list of links composed by LinkUrl, LinkShortenedUrl and Creation date.
 

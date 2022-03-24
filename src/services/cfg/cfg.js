@@ -1,5 +1,5 @@
 export default {
-    apiurl: 'https://qhsl6lnb7d.execute-api.eu-central-1.amazonaws.com/wunderdog',
+    apiurl: '',
     headers: {
         'Content-Type': 'application/json'
     }   
